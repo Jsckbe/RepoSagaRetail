@@ -1,0 +1,30 @@
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\bin\Debug\FormularioTrabajoParcial.exe.config
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\bin\Debug\FormularioTrabajoParcial.exe
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\bin\Debug\FormularioTrabajoParcial.pdb
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.csproj.AssemblyReference.cache
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.Properties.Resources.resources
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.csproj.GenerateResource.cache
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.csproj.CoreCompileInputs.cache
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.exe
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.pdb
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.fmrAcercaDe.resources
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.fmrUsuario.resources
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.fmrCompras.resources
+C:\Users\Marco Andre\source\repos\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.fmrProductos.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\bin\Debug\FormularioTrabajoParcial.exe.config
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\bin\Debug\FormularioTrabajoParcial.exe
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\bin\Debug\FormularioTrabajoParcial.pdb
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.csproj.AssemblyReference.cache
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.fmrAcercaDe.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.fmrCompras.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.fmrProductos.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.fmrUsuario.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.Properties.Resources.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.csproj.GenerateResource.cache
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.csproj.CoreCompileInputs.cache
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.exe
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.pdb
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.FrmLeerMas.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.FrmRegistroUsuario.resources
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\Grupo\FormularioTrabajoParcial\FormularioTrabajoParcial\obj\Debug\FormularioTrabajoParcial.FrmIniciarSesionUsuario.resources
